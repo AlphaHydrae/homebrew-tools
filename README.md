@@ -9,15 +9,6 @@ Various command line tools that can be installed with [Homebrew][brew]:
 
 ## Installation
 
-Directly:
-
-```
-brew install alphahydrae/tools/ensure-git-repos
-brew install alphahydrae/tools/probetcp
-```
-
-With tap:
-
 ```
 brew tap alphahydrae/tools
 brew install ensure-git-repos
