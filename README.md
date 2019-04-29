@@ -3,7 +3,7 @@
 Various command line tools that can be installed with [Homebrew][brew]:
 
 * **[ensure-git-repos]** - Check that a directory only contains Git repositories.
-* **[probetcp]** - Probe TCP endpoints.
+* **[tcpwait]** - Wait for TCP endpoints to be reachable.
 
 
 
@@ -12,12 +12,11 @@ Various command line tools that can be installed with [Homebrew][brew]:
 ```
 brew tap alphahydrae/tools
 brew install ensure-git-repos
-brew install probetcp
+brew install tcpwait
 ```
-
 
 
 
 [brew]: https://brew.sh/
 [ensure-git-repos]: https://github.com/AlphaHydrae/ensure-git-repos
-[probetcp]: https://github.com/AlphaHydrae/probetcp
+[tcpwait]: https://github.com/AlphaHydrae/tcpwait
