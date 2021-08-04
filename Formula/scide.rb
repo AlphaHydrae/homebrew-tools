@@ -1,8 +1,8 @@
 class Scide < Formula
   desc "GNU Screen IDE"
   homepage "https://github.com/AlphaHydrae/scide"
-  url "https://github.com/AlphaHydrae/scide/archive/v2.0.0.tar.gz"
-  sha256 "d6bebb25b134f7ef938dc97647982d60ec1b4ed344f6258328a2ec7418643419"
+  url "https://github.com/AlphaHydrae/scide/archive/v2.0.1.tar.gz"
+  sha256 "9f3b56bf3382c8c5cfab4ac75194542caef89c8ae5382d035c4bb70c47c514f2"
 
   def install
     bin.install 'bin/scide'
