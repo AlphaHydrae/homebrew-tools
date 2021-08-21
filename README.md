@@ -1,5 +1,8 @@
 # CLI Tools Homebrew Tap
 
+[![Build](https://github.com/AlphaHydrae/homebrew-tools/actions/workflows/build.yml/badge.svg)](https://github.com/AlphaHydrae/homebrew-tools/actions/workflows/build.yml)
+[![MIT License](https://img.shields.io/static/v1?label=license&message=MIT&color=informational)](https://opensource.org/licenses/MIT)
+
 Various command line tools that can be installed with [Homebrew][brew]:
 
 * **[ensure-git-repos]** - Check that a directory only contains Git
