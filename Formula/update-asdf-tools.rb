@@ -5,8 +5,8 @@
 class UpdateAsdfTools < Formula
   desc "Update all asdf tools to the latest version in one command"
   homepage "https://github.com/AlphaHydrae/update-asdf-tools"
-  url "https://github.com/AlphaHydrae/scide/archive/v0.0.0.tar.gz"
-  sha256 "0000000000000000000000000000000000000000000000000000000000000000"
+  url "https://github.com/AlphaHydrae/update-asdf-tools/archive/v1.0.0.tar.gz"
+  sha256 "0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5"
 
   def install
     bin.install "bin/update-asdf-tools"
