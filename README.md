@@ -9,6 +9,7 @@ Various command line tools that can be installed with [Homebrew][brew]:
   repositories.
 * **[scide]** - GNU Screen IDE.
 * **[tcpwait]** - Wait for TCP endpoints to be reachable.
+* **[update-asdf-tools]** - Update all [asdf][asdf] tools in one command.
 
 
 
@@ -19,11 +20,14 @@ brew tap alphahydrae/tools
 brew install ensure-git-repos
 brew install scide
 brew install tcpwait
+brew install update-asdf-tools
 ```
 
 
 
-[brew]: https://brew.sh/
+[asdf]: https://asdf-vm.com
+[brew]: https://brew.sh
 [ensure-git-repos]: https://github.com/AlphaHydrae/ensure-git-repos
 [scide]: https://github.com/AlphaHydrae/scide
 [tcpwait]: https://github.com/AlphaHydrae/tcpwait
+[update-asdf-tools]: https://github.com/AlphaHydrae/update-asdf-tools
