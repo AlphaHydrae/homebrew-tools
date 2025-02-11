@@ -13,6 +13,6 @@ class UpdateAsdfTools < Formula
   end
 
   test do
-    system "update-asdf-tools", "--version"
+    system "#{bin}/update-asdf-tools", "--version"
   end
 end
